@@ -20,3 +20,8 @@ Currently learning cybersecurity through TechCrush, working toward my first cert
 
 ## Progress log
 Check back here as I add labs, notes, and milestones along the way.
+
+### Day 1 - Cybersecurity Fundamentals
+- Learned core terminology: asset, threat, vulnerability, risk
+- Learned common cyber threat sources: nation states, terrorist organizations, criminal groups, hackers
+- Key takeaway: security decisions are built around identifying assets, understanding what threatens them, and closing vulnerabilities to reduce risk
